@@ -1,0 +1,102 @@
+s#  Solo
+
+Bid for Game *Solo* enables you to practice bidding on your own. You must be logged in to access this page see [Sign Up and Your Account](your_account).
+
+In the default mode Bid for Game will generate and present you with random hands. Sometimes, however, you may wish to practice bidding on certain hand types, or you may have a file of boards that you wish to practice on. Bid for Game has features that enable  you to so that. For a detailed decription of how this works see [Hand Types](#hand-types).
+
+
+## How to use Solo bidding
+
+When you first access the page you will presented with a hand on which you can bid.
+
+![solo01](/_images/solo01.jpg)
+
+At the top left you will see board information including the seat at which you sit (*You are*), the dealer and any bids that have been made before your turn.
+
+Below that is the hand on which you will bid.
+
+On the right hand side are a number of buttons and links that you will use. To start, click in *Make a bid*. The bidding box will appear.
+
+
+![solo02](/_images/solo02.jpg)
+
+Click on the bid that you wish to make. *Solo* will then report on whether the bid was correct, giving a commentary on the reasons. If yor bid was correct, you will see a green tick.
+
+![solo03](/_images/solo03.jpg)
+
+or if wrong, a red cross
+
+![solo04](/_images/solo04.jpg)
+
+In either case, you can proceed to the next bid by clicking on *Use suggestion* or *Use you bid*.
+
+If you click on *Strategy* you  will presented with short outline of the background to your bid.
+
+![strategy01](/_images/strategy01.jpg)
+
+Clicking on *Show hands* will display all four hands on the board and any bids made to date. Note that here you can save the hand for for looking at later or discussing with others; see [Loading and Saving Files](load_and_save).
+
+![hand_display](/_images/hand_display.jpg)
+
+If you wish to rebid the hand, you may reset all the bids in the auction by clicking on *Reset hand*.
+
+If you wish to move on to another hand, click on *New board*
+
+
+
+## Set Hands
+
+If you click on *Set Hands*, you will see the hand type selection screen.
+
+![hand_type](/_images/hand_type.jpg)
+
+The three selections are:
+
+1. Use random hands - all hands are randomly generated;
+2. Use set hands - you will be presented with hands that fit certain criteria;
+3. Use Deal File - the hands can be processed in turn for the selected file.
+
+### Random hands
+Random hands need no further explanation; they are genuinely random.
+
+### Hand Types
+
+If you select *Use set hands* from the Hand Type page you will be shown the Set Hands selection.
+
+![set_hands](/_images/set_hands.jpg)
+
+Each of these will allow bidding practice in a specific area which will be of help to beginners.
+
+1. Opening ones - do you open 1NT or one of a suit ( and which one?);
+2. Limit bids - bids on which you able to let your partner know the strength of your hand;
+3. Response in a new suit - where you partner has bid and you are able to show a another suit;
+4. Balanced rebids - you have opened one of a suit with a balanced hand;
+5. Single suited rebids  - your hand is such that you will rebid your suit;
+6. Two suited rebids - where you can rebid a second suit;
+7. Support for responder - you are able to support responder's suit;
+8. Respond to a weak two - partner has opened with a weak two. What do you bid?
+9. Response to 2NT - partner has opened with 2NT. How should you respond?
+9. Response to 2C - partner has opened with 2C. How should you continue?
+
+You may select one or more hand type. If you select more than one, hands types will be generated randomly in accordance with the selection.
+
+If you check *Display hand type*, the hand type name will be shown on the bidding screen. If you so not wish tp see the hand type, leave this unchecked.
+
+Click on *Submit* to save your selection and start bidding.
+
+
+## Deal File
+
+If you select *Use Deal File* from the Hand Type page you will be shown the Deal File selection.
+
+![deal_file](/_images/deal_file.jpg)
+
+This screen will list all of the files that you have uploaded to Bid for game, see [Loading and Saving Files](load_and_save).
+
+To use a file, check it. You are able to select the seat at which you sit for the boards in that file. Your selection will be remembered.
+
+Click on *Submit* to save your selection and start bidding.
+
+![deal_file_bidding](/_images/deal_file_bidding.jpg)
+
+You will now see two new buttons: *Previous board* and *Next board*. These will allow you to navigate through the boards. The current board number is shown. All other buttons work as described above.

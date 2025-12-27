@@ -1,0 +1,15 @@
+# Save a board
+
+If you decide that you wish to save a board you may do so. While you are bidding the board click on the *Show hands* button. You can elect to save the board in either *PBN* or *LIN* format; just click on the relevant *Download as ...* button. You will see a confirmation dialog.
+
+![download](/_images/download.jpg)
+
+Respond as appropriate.
+
+## File formats
+
+[PBN, Portable Bridge Notation](http://tistis.nl/pbn/) is an open format and the most commonly used for saving and transferring data  relating to bridge events and boards. It is used, for example by BridgeWebs.
+
+LIN is a proprietary format used by [BBO](https://www.bridgebase.com). You will  need to use this format if you wish to load your board into the BBO system.
+
+This is a [web site](http://johnfromarran.org.uk/Bridge/PbnToLin.html) where you can convert a PBN file to the LIN format.

@@ -1,0 +1,31 @@
+# Sign Up
+
+In order to sign up for Bid for Game, you will need your email address, a username and a password. Both the password (8 characters minimum) and the username must be unique on the site.
+
+1. From the menu bar select *My Account* and click on *Sign Up*. You will be taken to the Sign Up page.
+    ![signup01](/images/signup01.jpg)
+
+1. Enter the fields required:
+   1. Username, must be unique on the site;
+   2. email address, must be unique on the site;
+   3. your first name; this and your last name will be visible to your partners and will help them to identify you;
+   4. Password; this must be 8 characters minimum;
+   5. Password confirmation; repeat your password.
+
+1. Click on submit. I there are any errors reported, please correct them and click on submit again.
+
+1. If there are no errors, you will see a message to say that an email has been sent to your email address.
+
+1. Go to your email client and open the email from *support@bidforgame.com*. The body of the email will conatin a link similar to:
+   
+   *http://bidforgame.com/accounts/confirm-email/NTg:1l3y4F:HUNnDP-wQpTI0NG5wSZag6ysOAx84YZs4NTZgtSyHQ/*
+
+1. Click on the link (or copy and paste into the address bar of your browser).
+
+1. You will be shown the Confirm Email Address page
+
+    ![confirm_email](/images/confirm_email.jpg)
+    
+1. Click on confirm and you will be taken to the login page. (You can login now or later).
+
+1. You are now signed up for Bid for Game.

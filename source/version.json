@@ -1,0 +1,23 @@
+{
+    "__version__": "1.0.4",
+    "1.0.4": {
+        "date": "19 Sep 2023",
+        "text": "Remove extraneous corrupt text from main_screen."
+    },
+    "1.0.3": {
+        "date": "19 Sep 2023",
+        "text": "Add Claim/concede link to buttons."
+    },
+    "1.0.2": {
+        "date": "19 Sep 2023",
+        "text": "Correct Display hand type button."
+    },
+    "1.0.1": {
+        "date": "19 Sep 2023",
+        "text": "Button reorganisation and bug fix (set-hands)."
+    },
+    "1.0.0": {
+        "date": "1 Aug 2023",
+        "text": "First production version."
+    }
+}

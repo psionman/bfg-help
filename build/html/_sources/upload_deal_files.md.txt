@@ -1,0 +1,11 @@
+# Upload Deal Files
+
+Bid for Game allows you to upload files of boards against which you can bid. The might be exercises following a lesson or a set of boards from a tournament.
+
+To upload a file, click on the *Upload deal files* link on the *My account* page.
+
+![upload_file](/_images/upload_file.jpg)
+
+Click on the *Choose file* button and you can use the file explorer to locate the file that you want. Enter a meaningful description and click on *Upload file*.
+
+If the upload is successful, you will see a confirmation message.
